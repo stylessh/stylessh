@@ -10,7 +10,7 @@
 <div align="center">
   <h3>Take a look to my stats!</h3>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stylessh&count_private=true&show_icons=true?theme=onedark?hide_title=true"/>    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stylessh&count_private=true&show_icons=true&theme=onedark&hide_title=true"/>    
   </a>
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact"/>
