@@ -6,14 +6,15 @@
   </a>
 </div>
 <hr>
-
-<div align="center">
+    
+<div>
   <h3>Take a look to my stats!</h3>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stylessh&count_private=true&show_icons=true&theme=onedark&hide_title=true"/>    
+    <img src="https://github-readme-stats.vercel.app/api?username=stylessh&count_private=true&show_icons=true&theme=onedark&hide_title=true"/>    
   </a>
+  <br>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact&theme=onedark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact&theme=onedark"/>
   </a>
   <h3>Go to see what a i did in my repositories!</h3>
 </div>
