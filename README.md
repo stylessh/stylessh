@@ -13,7 +13,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=stylessh&count_private=true&show_icons=true&theme=onedark&hide_title=true"/>    
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact&theme=onedark"/>
   </a>
   <h3>Go to see what a i did in my repositories!</h3>
 </div>
