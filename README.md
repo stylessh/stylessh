@@ -1,11 +1,10 @@
 <div>
-  <h3>🔭 Currently working at <a href=https://github.com/faztcommunity">@faztcommunity</a></h3>
-  <h4>As frontend and designer.</h4>
+  <h3>🔭 Currently working at <a href=https://github.com/faztcommunity">@faztcommunity</a> as frontend and designer.</h3>
+  <p>Click image to join into community!</p>
   <a href="https://discord.com/invite/37PHuNw" title="Fazt Community">
-    <img height="100px" src="https://res.cloudinary.com/design-code-mx/image/upload/v1596616586/ReadMeFaztCommunity/faztcommunity_xbhnox.svg" >
+   <img height="50px" src="https://res.cloudinary.com/design-code-mx/image/upload/v1596616586/ReadMeFaztCommunity/faztcommunity_xbhnox.svg" >
   </a>
 </div>
-<hr>
     
 <div>
   <h3>Take a look to my stats!</h3>
