@@ -1,3 +1,5 @@
+# 👋 Hey!, I'm Alan.
+
 <div>
   <h3>🔭 Currently working at <a href=https://github.com/faztcommunity">@faztcommunity</a> as frontend and designer.</h3>
   <p>Click image to join into community!</p>
@@ -15,5 +17,4 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh&layout=compact"/>
   </a>
-  <h3>Go to see what a i did in my repositories!</h3>
 </div>
