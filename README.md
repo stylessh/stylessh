@@ -18,9 +18,9 @@
 
 ### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stylessh&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Alan's stats"/>
-<br>
+<h1></h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh" alt="Top langs"/>
-<br>
+<h1></h1>
 
 ### Social media
 <p align="left">
