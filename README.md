@@ -20,6 +20,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stylessh&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Alan's stats"/>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh" alt="Top langs"/>
+<br>
 
 ### Social media
 <p align="left">
