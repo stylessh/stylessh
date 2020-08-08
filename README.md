@@ -22,6 +22,5 @@
 <img style="display: block;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylessh" alt="Top langs"/>
 
 ### Social media
-<p align="left">
+
 <a href="https://twitter.com/stylesshdev" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stylesshdev" height="30" width="30" /></a>
-</p>
