@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alan!</h1>
-<h3 align="center">A frontend & backend developer from Latam.</h3>
+<h1>Hi 👋, I'm Alan!</h1>
+<h3>A frontend & backend developer from Latam.</h3>
 
 - 🔭 I’m currently working on [@faztcommunity](https://github.com/faztcommunity)
 
-- 🌱 I’m currently learning **Next.js and Emotion.**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://stylessh.github.io/minimalist-web](https://stylessh.github.io/minimalist-web)
 
