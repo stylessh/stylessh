@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Strapi**
 
-- 💻 All of my projects are available at [my portfolios](https://portfolios-iota.vercel.app)
+- 💻 All of my projects are available at [my portfolios](https://stylessh.vercel.app)
 
 - 📫 How to reach me **stylesshjs@gmail.com**
 
