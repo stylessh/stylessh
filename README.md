@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@faztcommunity](https://github.com/faztcommunity)
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **Strapi and Svelte**
 
 - 💻 All of my projects are available at [my portfolios](https://stylessh.vercel.app)
 
