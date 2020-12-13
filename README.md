@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Alan!</h1>
 <h3>A frontend & backend developer from Latam.</h3>
 
+
+
 - 🔭 I’m currently working on [@faztcommunity](https://github.com/faztcommunity)
 
 - 🌱 I’m currently learning **Strapi and Svelte**
@@ -13,8 +15,14 @@
 
 
 ### Technologies I've been working with.
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
+<!-- Banner -->
+<p>
+   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px" height="100px" alt="react" />
+   <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/source.gif" width="100px" height="100px" alt="svelte" />
+   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="100px" height="100px" alt="javascript" />
+   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
+   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px" height="100px" alt="python" />
+</p>
 
 ### Stats
 
