@@ -2,10 +2,7 @@
 <h3>A frontend & backend developer from Latam.</h3>
 
 
-
-- 🔭 I’m currently working on [@faztcommunity](https://github.com/faztcommunity)
-
-- 🌱 I’m currently learning **Strapi and Svelte**
+- 🌱 I’m currently learning **Svelte**
 
 - 💻 All of my projects are available at [my portfolios](https://stylessh.vercel.app)
 
