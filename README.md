@@ -2,7 +2,7 @@
 <h3>A frontend & backend developer from Latam.</h3>
 
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Neural Networks and Machine Learning.**
 
 - 💻 All of my projects are available at [my portfolios](https://stylessh.vercel.app)
 
